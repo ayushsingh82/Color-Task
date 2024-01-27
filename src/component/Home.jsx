@@ -240,7 +240,7 @@ const Home = () => {
         </div>
       </div>
       <div className='pt-4 text-s text-center text-[#800090]'>
-        Created by <a href="https://twitter.com/0xSarthak13">Ayush Singh</a>
+        Created by <a href="https://twitter.com/eth_ayushS">Ayush Singh</a>
       </div>
     </div>
   );
